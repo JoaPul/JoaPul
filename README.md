@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoaPul
 - 👀 I’m interested in ... coding
-- 🌱 I’m currently learning ... Python
+- 🌱 I’m currently learning ... Data Analysis with python, and React js
 - 💞️ I’m looking to collaborate on ... a coding project
 
 <!---
